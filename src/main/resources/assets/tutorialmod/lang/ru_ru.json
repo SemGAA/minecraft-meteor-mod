@@ -1,0 +1,8 @@
+{
+  "item.tutorialmod.alexandrite": "Необработанный александрит",
+  "block.tutorialmod.alexandrite_block": "Ядро александрита",
+  "message.tutorialmod.meteor_warning": "Небо начинает дрожать...",
+  "message.tutorialmod.meteor_intro": "В небе появляется огненный след.",
+  "message.tutorialmod.meteor_impact": "Метеорит упал: %s %s %s",
+  "message.tutorialmod.meteor_core_hint": "В кратере осталось заражённое ядро: %s %s %s"
+}

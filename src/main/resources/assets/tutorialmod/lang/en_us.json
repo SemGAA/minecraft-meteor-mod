@@ -1,0 +1,8 @@
+{
+  "item.tutorialmod.alexandrite": "Raw Alexandrite",
+  "block.tutorialmod.alexandrite_block": "Alexandrite Core",
+  "message.tutorialmod.meteor_warning": "The sky begins to tremble...",
+  "message.tutorialmod.meteor_intro": "A burning trail tears through the sky.",
+  "message.tutorialmod.meteor_impact": "Meteor impact: %s %s %s",
+  "message.tutorialmod.meteor_core_hint": "The crater now holds an infected core at %s %s %s"
+}
