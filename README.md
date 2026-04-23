@@ -2,6 +2,19 @@
 
 Forge-мод для Minecraft 1.21 с глобальным событием падения метеорита, кастомной сущностью, визуальными эффектами и серверной логикой обработки событий.
 
+## Скачать и запустить
+
+- [Скачать последнюю версию мода](https://github.com/SemGAA/minecraft-meteor-mod/releases/latest/download/tutorialmod-0.0.1.jar)
+- [Открыть Releases](https://github.com/SemGAA/minecraft-meteor-mod/releases/latest)
+- [Краткая инструкция для игрока](./docs/PLAYER_README_RU.md)
+
+### Установка в два клика
+
+1. Скачайте `tutorialmod-0.0.1.jar` из Releases.
+2. Положите файл в папку `.minecraft/mods` и запустите Minecraft Forge 1.21.
+
+Если Forge уже установлен, на этом все. После входа в мир мод загрузится автоматически.
+
 ## Что внутри
 
 - `MeteorWorldEventHandler` управляет жизненным циклом события через player/server/world events.

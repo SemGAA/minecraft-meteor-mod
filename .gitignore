@@ -25,6 +25,7 @@ logs
 *.log
 *.zip
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 
 # Files from Forge MDK
 forge*changelog.txt
